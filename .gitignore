@@ -1,0 +1,49 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+# Data files
+data/raw/*.pdf
+data/raw/*.docx
+data/raw/*.csv
+data/processed/*.json
+data/embeddings/
+*.pkl
+*.h5
+*.pth
+# Models
+models/*.bin
+models/*.pt
+models/*.onnx
+mlruns/
+# Environment variables
+.env
+.env.local
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+# OS
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+logs/
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+# MLflow
+mlruns/
+mlartifacts/
