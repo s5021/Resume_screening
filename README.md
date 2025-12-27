@@ -1,6 +1,5 @@
 ﻿# AI-Powered Resume Screening System
-## Setup Complete! ✓
-### Next Steps:
+
 1. **Install dependencies:**
 ```
    pip install -r requirements.txt
